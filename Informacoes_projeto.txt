@@ -7,8 +7,9 @@ para o desenvolvimento de sistemas.
 
 *INSERCAO, ALTERACAO E EXCLUSAO em PHP;
 *Orientação a Objetos utilizando PDO;
-*Operações de INSERSAO, ALTERAÇÃO e EXCLUSAO com ajax
+*Operações de INSERCAO, ALTERAÇÃO e EXCLUSAO com ajax
 através da biblioteca JS(Jquery);
+*Uso de variaveis globais $POST, $GET;
 
 
 *Acesso a Tela de Login:
