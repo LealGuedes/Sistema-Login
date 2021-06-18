@@ -1,0 +1,18 @@
+=>INFORMACOES DO PROJETO
+
+Neste projeto foram trabalhados assuntos básicos 
+para o desenvolvimento de sistemas.
+
+*Conteudos abordados:
+
+*INSERCAO, ALTERACAO E EXCLUSAO em PHP;
+*Orientação a Objetos utilizando PDO;
+*Operações de INSERSAO, ALTERAÇÃO e EXCLUSAO com ajax
+através da biblioteca JS(Jquery);
+
+
+*Acesso a Tela de Login:
+
+localhost/sistema-login/incs/login.inc.php
+localhost/sistema-login/incs/cadastro.inc.php
+
